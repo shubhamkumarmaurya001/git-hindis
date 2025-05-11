@@ -4,6 +4,6 @@
 
 this is some installation instruction
 
-``bash
+```bash
 npm install
 ....
